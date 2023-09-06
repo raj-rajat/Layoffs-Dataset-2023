@@ -24,19 +24,13 @@ The dataset provides comprehensive details on layoffs from companies worldwide, 
 
 A bar chart showcasing the total layoffs across top industries in 2023. It helps in understanding which sectors were most affected during the year.
 
-📌 [Visualization Link](#) (Replace with your actual link)
-
 ### Monthly Layoffs Trend for 2023:
 
 A line chart displaying the trend of layoffs throughout the year. Each line represents a company, providing a detailed view of the layoffs month by month.
 
-📌 [Visualization Link](#) (Replace with your actual link)
-
 ### Company-wise Total Layoffs in 2023:
 
 A bar chart providing a direct comparison of which companies had the highest layoffs during 2023.
-
-📌 [Visualization Link](#) (Replace with your actual link)
 
 ## Further Analysis 🧪
 
